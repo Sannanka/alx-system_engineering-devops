@@ -1,9 +1,4 @@
-
-0-current_working_directorychmod u+x 0-current_working_directorygit config user.email "sannanka@gmail.com"
-git config user.name "Sannanka"
-git add .
-git commit -m 'working directory'
-git push
-#!/bin/bash
+ 
+ 0-current_working_directory#!/bin/bash
 pwd
 press
